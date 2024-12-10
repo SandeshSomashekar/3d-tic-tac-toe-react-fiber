@@ -1,7 +1,6 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
+This is a 3D Tic Tac Toe game where two players can play against one another.
+The game is built using React-three fiber. The game is setup in a 3-Dimensional space that can be moved around using mouse drag.
+Game setup can be zoomed in and zoomed out using mouse.
 
 How to run:
 -----------
